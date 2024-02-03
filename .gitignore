@@ -1,0 +1,7 @@
+# Directories
+bin/
+obj/
+.vs/
+.idea/
+# Files
+temporary.txt
